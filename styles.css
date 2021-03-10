@@ -122,6 +122,7 @@ ul.skills {
 }
 
 footer {
+  background: url('images/footer_image.jpg') no-repeat top center ;
   width: 100%;
   min-height: 30px;
   padding: 20px 0 40px 20px;
@@ -206,5 +207,13 @@ a.social:hover {
   }
 
 }
-/* styles for Experience */
+/* styles for Hobbies */
 
+article .hobby{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%
+
+}
+/* styles for experience */
